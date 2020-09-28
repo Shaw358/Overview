@@ -1,4 +1,4 @@
-# [Overview]
+# Overview
 
 Hello! My name is Lucas and i'm a third years Game Development student at the Mediacollege Amsterdam.
 I've thus far worked with C#, C++, NodeJS, JS, Unity, GML and GameMaker 2.
