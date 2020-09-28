@@ -11,8 +11,8 @@ The thing i love the most is backend development, throwing and effectively manag
 -[Warhammer 40K themed Strategy Game](https://github.com/Shaw358/Wh40K) my best work so far.
 
 ### Finished projects/ceased development
--[BlackJack C++ game (console based game)](https://github.com/Shaw358/CardCPPGame/tree/master/CardGames) Finished</br>
--[Recovered files from our Angry Brids clone](https://github.com/Shaw358/AngryBirdsCloneRecovery) Finished</br>
--[Small text adventure game in JS](https://github.com/Shaw358/PROJ---txtAG) Finished</br>
+-[BlackJack C++ game (console based game)](https://github.com/Shaw358/CardCPPGame/tree/master/CardGames) Finished Project</br>
+-[Recovered files from our Angry Brids clone](https://github.com/Shaw358/AngryBirdsCloneRecovery) Finished Project</br>
+-[Small text adventure game in JS](https://github.com/Shaw358/PROJ---txtAG) Finished Project</br>
 -[Large first person dungeon crawler](https://github.com/Firelonze/ProjectMythe/blob/master/README.md) Ceased development, did not finish within deadline (not all work online but really learned me how to properly plan and work with SCRUM)</br>
--[Drone project](https://github.com/Shaw358/Input-Output-Jordi-Lucas) The project is in Dutch and very small in scale, it was a simple controller for a drone using Node.JS and npm packages
+-[Drone project](https://github.com/Shaw358/Input-Output-Jordi-Lucas) Finished Project, project is in Dutch and very small in scale, it was a simple controller for a drone using Node.JS and npm packages
