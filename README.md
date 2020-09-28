@@ -14,4 +14,4 @@ The thing i love the most is backend development, throwing and effectively manag
 -[BlackJack C++ game (console based game)](https://github.com/Shaw358/CardCPPGame/tree/master/CardGames) Finished</br>
 -[Recovered files from our Angry Brids clone](https://github.com/Shaw358/AngryBirdsCloneRecovery) Finished</br>
 -[Small text adventure game in JS](https://github.com/Shaw358/PROJ---txtAG) Finished</br>
--[Large first person dungeon crawler](https://github.com/Firelonze/ProjectMythe/blob/master/README.md) Ceased development, did not finish within deadline (not all work online but really learned me how to properly plan)</br>
+-[Large first person dungeon crawler](https://github.com/Firelonze/ProjectMythe/blob/master/README.md) Ceased development, did not finish within deadline (not all work online but really learned me how to properly plan and work with SCRUM)</br>
