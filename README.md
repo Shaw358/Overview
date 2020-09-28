@@ -3,7 +3,7 @@
 Hello! My name is Lucas and i'm a third years Game Development student at the Mediacollege Amsterdam.</br>
 Currently living in Amsterdam for a solid 18 years, my general hobbies include, Games, History, Science Fiction and Drums.</br>
 I've thus far worked with C#, C++, NodeJS, JS, Unity, GML and GameMaker 2.</br>
-Besides software development I am familiar with SCRUM methods and know Game Design Documents, Trello's and One page designs.</br>
+Besides software development I am familiar with SCRUM methods and know how to make and use Game Design Documents, Trello's and One page designs.</br>
 
 The languages I have the most experience with are C# and C++.
 I have about 2.3 years of development on my name with many more to come.
