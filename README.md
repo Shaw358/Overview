@@ -10,7 +10,7 @@ I have about 2.3 years of development on my name with many more to come.
 -[Warhammer 40K themed Strategy Game](https://github.com/Shaw358/Wh40K) my best work so far.
 
 ### Finished projects/ceased development
--[BlackJack C++ game (console based game)](https://github.com/Shaw358/CardCPPGame/tree/master/CardGames) Finished
--[Recovered files from our Angry Brids clone](https://github.com/Shaw358/AngryBirdsCloneRecovery) Finished
--[Small text adventure game in JS](https://github.com/Shaw358/PROJ---txtAG) Finished
--[Large first person dungeon crawler](https://github.com/Firelonze/ProjectMythe/blob/master/README.md) Ceased development, did not finish within deadline
+-[BlackJack C++ game (console based game)](https://github.com/Shaw358/CardCPPGame/tree/master/CardGames) Finished</br>
+-[Recovered files from our Angry Brids clone](https://github.com/Shaw358/AngryBirdsCloneRecovery) Finished</br>
+-[Small text adventure game in JS](https://github.com/Shaw358/PROJ---txtAG) Finished</br>
+-[Large first person dungeon crawler](https://github.com/Firelonze/ProjectMythe/blob/master/README.md) Ceased development, did not finish within deadline</br>
