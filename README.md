@@ -5,6 +5,7 @@ I've thus far worked with C#, C++, NodeJS, JS, Unity, GML and GameMaker 2.
 
 The languages i have the most experience with are C# and C++.
 I have about 2.3 years of development on my name with many more to come.
+The thing i love the most is backend development, throwing and effectively managing data is what i want to achieve!
 
 ### Active Projects
 -[Warhammer 40K themed Strategy Game](https://github.com/Shaw358/Wh40K) my best work so far.
