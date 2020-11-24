@@ -8,7 +8,7 @@ Besides software development I am familiar with SCRUM methods and know how to ma
 
 The languages I have the most experience with are C# and C++.
 I have about 2.3 years of development on my name.
-The thing I love the most is backend development, throwing and efficiently managing data is what I want to achieve!
+The thing I love the most is backend development, throwing and efficiently managing data is what I enjoy.
 
 ### Active Projects
 -[Warhammer 40K themed Strategy Game](https://github.com/Shaw358/Wh40K) my best work so far. Currently loose mechanics but it will be a prototype of the game by the 1st of December. After that i'm taking a step back from the game. (Solo)
