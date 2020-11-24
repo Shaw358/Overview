@@ -12,8 +12,8 @@ The thing I love the most is backend development, throwing and efficiently manag
 
 ### Active Projects
 -[Warhammer 40K themed Strategy Game](https://github.com/Shaw358/Wh40K) my best work so far. Currently loose mechanics but it will be a prototype of the game by the 1st of December. After that i'm taking a step back from the game. (Solo)
-<br>
--[Phantom Keys](https://youtu.be/SIgHoW8nsvw) A project i'm working on with several devs, artists and composers (team of 9). Repo is private per the project leaders wishes, the link will lead to a youtube video of me testing a prototype i made for the battle system. 
+</br>
+-[Phantom Keys](https://youtu.be/SIgHoW8nsvw) A project i'm working on with several devs, artists and composers (team of 9). Repo is private per the project leaders wishes, the link will lead to a youtube video of me testing a prototype i made for the battle system. </br>
 
 ### Finished projects/ceased development
 -[Scripts for a basic inventory system](https://github.com/Shaw358/CGI/tree/main/Op2) Finished, i made this with the idea of being able to import this into any game.</br>
