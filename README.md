@@ -17,7 +17,7 @@ The thing I love the most is backend development, throwing and efficiently manag
 
 ### Finished projects/ceased development
 -[Scripts for a basic inventory system](https://github.com/Shaw358/CGI/tree/main/Op2) Finished, i made this with the idea of being able to import this into any game.</br>
--[Scripts for a UI hovering textbox](https://github.com/Shaw358/CGI/tree/main/Op4) Finished, when the when players hovers his/her mouse over the object with the attached script an information box will display with custom text. 
+-[Scripts for a UI hovering textbox](https://github.com/Shaw358/CGI/tree/main/Op4) Finished, when the when players hovers his/her mouse over the object with the attached script an information box will display with custom text. </br>
 -[BlackJack C++ game (console based game)](https://github.com/Shaw358/CardCPPGame/tree/master/CardGames) Finished Project, i recently broke it, to get a working version you might need to go back two or three commits. (Solo) </br>
 -[Recovered files from our Angry Brids clone](https://github.com/Shaw358/AngryBirdsCloneRecovery) Finished Project (3 Devs, 3 Artists)</br>
 -[Small text adventure game in JS](https://github.com/Shaw358/PROJ---txtAG) Finished Project (Solo)</br>
